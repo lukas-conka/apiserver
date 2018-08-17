@@ -1,4 +1,11 @@
-      {codigo: 12, product:'Seguro', price:27},
-      {codigo:14, product:'Carro', price:7},
-      {codigo:2, product:'Nubank', price:2},
-      {codigo:7, product:'Convenio', price:287}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
